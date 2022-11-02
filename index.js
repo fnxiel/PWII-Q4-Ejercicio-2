@@ -70,7 +70,7 @@ playlist.push({
 })
 */
 
-//Create Read Update Delete - Crear, Leer, Actualizar, Borrar
+//Create Read Update Delete CRUD - Crear, Leer, Actualizar, Borrar
 
 //Insert
 
